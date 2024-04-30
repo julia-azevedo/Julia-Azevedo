@@ -1,4 +1,4 @@
-### Olá!👋 Eu sou Júlia Azevedo 
+### Olá!👋 Eu sou a Júlia Azevedo 
 
 <!--
 **julia-azevedo/Julia-Azevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
