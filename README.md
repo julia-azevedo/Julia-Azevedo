@@ -9,7 +9,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julia-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img align="center" alt="Julia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="Julia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="right" alt="Julia-gif" height="150" width="150" src = "https://cdn.discordapp.com/attachments/1123613634086572138/1234979064226513039/ezgif.com-animated-gif-maker.gif?ex=6632b361&is=663161e1&hm=744d5ed095bc495156e2902c1e8e7cf410a0306c842cb86d94aaa80e28decf83&"
 </div>
 
